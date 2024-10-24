@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Cutive+Mono&display=swap');
+@import url('./node_modules/animate.css/animate.min.css');
+@import url('./node_modules/sweetalert2/dist/sweetalert2.min.css');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.swal2-confirm {
+    @apply rounded-none !important;
+}
+
+.swal2-cancel {
+    @apply rounded-none !important;
+}
+
+.swal2-popup {
+    @apply rounded-none !important;
+}

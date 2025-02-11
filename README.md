@@ -9,4 +9,4 @@ A simple and efficient To-Do List application that allows users to add, manage, 
 - Responsive design for all devices
 
 ## 🛠 Tech Stack
-- **Frontend:** HTML, CSS, JavaScript (Vanilla JS)
+- **Frontend:** HTML, Tailwind CSS, JavaScript (Vanilla JS)
